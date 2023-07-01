@@ -1,0 +1,389 @@
+{
+  "tools": [
+    {
+      "title": "〜かた",
+      "description": "Verb Suffix - The way which an action is perfeormed\nWith compound する verbs put a の　between the compound.",
+      "example": "１）勉強しかた\n２）その人の泳ぎかたは不思議ですね　-> The way that person swims is strange, isn't it?"
+    },
+    {
+      "title": "〜まで",
+      "description": "A まで B = Till A.  Typically follows a 'change' type of verb.  A is always in the present affirmative.",
+      "example": "日本語がぺらぺらにならまで，国にかえらない -> Until I become fluent in Japanese, I won't return to my country."
+    },
+    {
+      "title": "〜ことにする",
+      "description": "Another way of saying 'decide to do...'\nFollows the present short form of a verb.",
+      "example": "１）車を買うことにしました -> We have decided to buy a car.\n２）ことにしている -> To do something as a regular practice."
+    },
+    {
+      "title": "〜ても",
+      "description": "A ても B = B, even if A.\nIf A clause ends with な-Adj or Noun, use 〜でも\nWorks with negative 〜て form",
+      "example": "先生に聞かなくても，分かります -> Even if I don't listen to the teacher, I'll understand."
+    },
+    {
+      "title": "Causative-Passive Sentences",
+      "description": "How to say that you were made to do something.\n(Puppet) は (Puppet-Master) に (Action)\nる-Verbs -> Stem + させられる\nす-Verbs -> させられる\nう-Verbs -> あされる",
+      "example": "私は肉を食べさせられた -> I was made to eat meat"
+    },
+    {
+      "title": "〜のように／〜のような",
+      "description": "A のような B = B is like/similar to A\nな is used when comparing in terms of visual attributes\nOtherwise, use 〜のように when describing actions or other characteristics",
+      "example": "１）メアリさん魚のように上手に泳げる -> Mary can swim very well, like a fish\n２）私はかまくらのような町が好きです -> I like towns like Kamakura"
+    },
+    {
+      "title": "〜のに",
+      "description": "B, despite A\nSimilar mechanics to 〜ので\nA and B must be factual statements",
+      "example": "家にいるのに，電話に出ない -> Even though she is home, she does not answer the phone."
+    },
+    {
+      "title": "〜ば",
+      "description": "Forms 'If A, then B' type sentences\nJust add the 〜えば ending（食べる -> 食べれば）\nNegative: ない -> なければ\nImplies a good result for B",
+      "example": "歩けば，電車に遅れちゃう -> If I walk, I'll be late for the train."
+    },
+    {
+      "title": "Stem + なさい",
+      "description": "Command.  Implies a kind of talking down to, or 'I know better'.",
+      "example": "１）毎日家に電話をかけなさい -> Be sure to call home everday\n２）文句を言うのを止めなさい -> Stop complaining"
+    },
+    {
+      "title": "Causative Sentences",
+      "description": "Make someone do something/let someone do something.\n(Director) は (Cast) に (Action)\nWhen followed by あげる／くねる, always means 'let'",
+      "example": "親はお姉さんに買い物に行かせた -> My parents made my sister go shopping."
+    },
+    {
+      "title": "〜あいだに",
+      "description": "'While' something else takes place.\nFirst clause is typically in 〜ている form.\nFirst clause can be a noun, just use 〜のあいだに",
+      "example": "お風呂に入っている間に電話がありました -> There was a phone call while I was taking a bath."
+    },
+    {
+      "title": "〜てほしい",
+      "description": "私は (person) に Verb + てほしい\nCan negate with 〜ないでほしい or ほしくない\nIf speaking of another person's wants, use ほしがっている",
+      "example": "私はお父さんに昔話をして欲しくない -> I don't want my dad to talk about the good old days."
+    },
+    {
+      "title": "Adjective + する",
+      "description": "To make something be 'adjective'",
+      "example": "１）安くしてくれない？ -> Can't you make this cheaper?\n２）しずかにしてください -> Please keep quiet"
+    },
+    {
+      "title": "〜てあります",
+      "description": "Situtations that are brought about on purpose\nUses Transitive verbs\nThe counterpart to 〜ておく",
+      "example": "寒いので，窓まどが閉めてあります -> Because it is cold, the window has been kept closed."
+    },
+    {
+      "title": "Passive Form",
+      "description": "(Victim) は (Villian) に (Action)\nDoesn't always have to be negative, but usually\nChange to 〜あれる ending",
+      "example": "私は彼女にふられた -> I was dumped by my girlfriend."
+    },
+    {
+      "title": "〜やすい／〜にくい",
+      "description": "Easy to do/Hard to do\nSubjective/personal, not objective\nAlways use は as the particle!\nStem + やすい／にくい",
+      "example": "このゲッムはやりやすい -> This game is easy to play"
+    },
+    {
+      "title": "name という item",
+      "description": "A person or thing that goes by a certain name.",
+      "example": "「花」と言う歌を知っているか？ -> Do you know the some called 'hana'?"
+    },
+    {
+      "title": "Embedded Questions",
+      "description": "If no question word in clause, end with: かどうか",
+      "example": "旅行に行くかどうかまだ決めていません -> We haven't decided if we'll go on a vacation or not yet."
+    },
+    {
+      "title": "〜ないで (without)",
+      "description": "To do something without something else",
+      "example": "字書を使わないで，新聞を読めます -> I can read the newspaper without a dictionary"
+    },
+    {
+      "title": "Humble Expressions",
+      "description": "To speak humbly of things you do with others.\nお + Stem + する (I humbly do)",
+      "example": "昨日，先生にお会いしました -> Yesterday, I (humbly) met with the professor."
+    },
+    {
+      "title": "Extra-Modest Expressions",
+      "description": "Used to speak humbly about yourself.\nJust a lot of different verb forms",
+      "example": "いる -> おります\n行く／くる -> まいります\nする -> いたします"
+    },
+    {
+      "title": "はずです",
+      "description": "Something is 'supposed' to happen.\nNot because of duty/obligation, just that it should or ought to be the case.",
+      "example": "日曜日だから，銀行は閉まっているはずです -> Because it is Sunday, the band should be closed."
+    },
+    {
+      "title": "〜てよかったです",
+      "description": "Used to say you're 'glad' for something.\nWorks with 〜て form and negative 〜て form.",
+      "example": "日本ごを勉強してよかったです -> I'm glad that I've studied Japanese."
+    },
+    {
+      "title": "〜てくれてありがとう",
+      "description": "Thanking for specific actions.\nHonorific Version: 〜てくださってありがとうございました",
+      "example": "手伝ってくれてありがとう -> Thank you for helping me out."
+    },
+    {
+      "title": "Giving Respectful Advice",
+      "description": "Action suggested should be for the other person's benefit.\nお + Verb Stem + ください",
+      "example": "お取りください -> Please take this.\nごちゅういください -> Please watch out."
+    },
+    {
+      "title": "Honorific Verbs",
+      "description": "Used when speaking of the actions of somebody else higher than you.",
+      "example": "いく／くる／いる -> いらっしゃる\nいう -> おっしゃる\nする -> なさる\nくれる -> くださる\nねる -> おやすみになる"
+    },
+    {
+      "title": "〜ばよかった",
+      "description": "'I wish I had done', or 'I should have done'.\nUses the 〜えば or 〜れば ending.\nIn the negative, use 〜なければ",
+      "example": "この肉を食べなければよかったです -> I shouldn't have eaten that meat."
+    },
+    {
+      "title": "〜ながら",
+      "description": "Actions performed at the same time.  Follows the verb stem.",
+      "example": "アルバイトをしながら学校に行くのは大変ですね -> It's not easy going to school and working part time."
+    },
+    {
+      "title": "A と B",
+      "description": "Whenever A, B as well.\nB clause determines the tense of the sentence.\nA is always in the present tense.\nMust be something that's ALWAYS the case!",
+      "example": "秋が来ると葉っぱが落ちる -> When fall comes, the leaves fall."
+    },
+    {
+      "title": "〜てしまう／〜ちゃう",
+      "description": "Carried out to completion, or a sense of lack of prediction or control.  Also can convey a sense of regret.",
+      "example": "電車にかばんを忘れてしまいました -> I forgot my bag on the train."
+    },
+    {
+      "title": "Intransitive Verbs",
+      "description": "Indicate a changed state.\nあく／こわれる／よごれる／つく／etc.",
+      "example": "電気がつきました -> The light went on. (vs I TURNED the light on)"
+    },
+    {
+      "title": "〜まえに／〜てから",
+      "description": "Before and after.\nVerb A (short present) + まえに + Verb B\nVerb A + てから + Verb B",
+      "example": "けんさんが来てから食べましょうか -> Why dont' we eat after Ken has arrived?"
+    },
+    {
+      "title": "〜みたいです",
+      "description": "Something or somebody resembles something.\nCan also follow verbs to say it looks like something has happened/is happening.",
+      "example": "１）あの人はゴリラみたいです -> That person looks like a gorilla.\n２）あめがふったみたいです"
+    },
+    {
+      "title": "なくてもいいです",
+      "description": "It's okay to not do something.",
+      "example": "プレセントは高くなくてもいいです -> The present doesn't have to be anything expensive."
+    },
+    {
+      "title": "〜たら",
+      "description": "A たら B => B if and when A.\nFollows the short term past of verbs.\nOnly works in the forward direction, B can't come before A.\nCan also be used for hypotheticals.",
+      "example": "今晩うちに帰ったら，電話します -> I will call you when I get home tonight."
+    },
+    {
+      "title": "〜って",
+      "description": "Used for reporting what people say.\nLike a short form for 〜と言っていました",
+      "example": "あきらさんはなんって言っていた -> What did Akira say?"
+    },
+    {
+      "title": "〜そうです　(heard)",
+      "description": "Used to report what you've heard.\n*Keep the full ending for adjectives, as opposed to 'looks like'",
+      "example": "１）日本ごのじゅぎょうはたのしいそうです -> I hear that their Japanese class is fun.\n２）けいさつによると，まちがきけんだそうです -> According to the police, that town is dangerous."
+    },
+    {
+      "title": "〜てすみませんでした",
+      "description": "Apologizing for specifc actions.\nTo apologize for something you didnt' do, use 〜なくて",
+      "example": "もっと早く言わなくてすみませんでした -> I'm sorry for not telling you sooner."
+    },
+    {
+      "title": "〜時",
+      "description": "Clause A 時 Clause B.\nClause B is the big key player here, determines the final tense.",
+      "example": "中国に行った時，おみやげを買います -> I will buy a souveneir when I go to China."
+    },
+    {
+      "title": "〜といい",
+      "description": "You hope something (good) will happen.\nOnly use for things that you don't have control over.",
+      "example": "雨が降らないといいね -> I hope that it doesn't rain."
+    },
+    {
+      "title": "〜てくれない／ください／いただけませんか",
+      "description": "Making Requests.\nCarries varying levels of politeness.",
+      "example": "この本を訳してくれませんか？ -> Could you translate this book for me?"
+    },
+    {
+      "title": "〜てあげる／くれる／もらう",
+      "description": "Helping verbs.\nDoing things for others/others for you.",
+      "example": "友達が宿題を手伝ってくれた -> My friend helped me with my homework."
+    },
+    {
+      "title": "Sentence Qualified Nouns",
+      "description": "Using whole clauses to qualify nouns.",
+      "example": "机の上にある本が青いです -> The book that is on the desk is blue."
+    },
+    {
+      "title": "〜ておく",
+      "description": "Indicates that something is done in preparation for something.",
+      "example": "友達が来るから，部屋を掃除しておかなきゃ -> I have to clean my room because friends are coming over."
+    },
+    {
+      "title": "Volitional + とおもっています",
+      "description": "Communicates that you've decided to do something.\nWith just 〜とおもいます，　communicates that the decision was made on the spot.",
+      "example": "毎日に三時間日本語を勉強しようと思っています -> I've decided to study Japanese for 3 hours everyday."
+    },
+    {
+      "title": "Volitional Form",
+      "description": "Less formal version of 〜ましょう",
+      "example": "美術館に行こうか -> Shall we go to the art museum?"
+    },
+    {
+      "title": "Noun + しか + Negative",
+      "description": "How to say 'only' something.\nCan also use も + positive to say 'as many as'",
+      "example": "学校に私しかいない -> I'm the only one at school."
+    },
+    {
+      "title": "〜たらどうですか",
+      "description": "Conveys advice or recommendation.\nUsually used after people come to you for advice, not unsolicited.",
+      "example": "もっと歯を磨いたらどうですか -> Why not brush your teeth more?"
+    },
+    {
+      "title": "あげる／くれる／もらう",
+      "description": "あげる is for YOU going to OTHERS.\nくれる is for OTHERS going to YOU or OTHERS.\n(giver) は／が (reciever) に あげる／くれる",
+      "example": "私は私の妹に私の日本語の本をあげた -> I gave my little sister my Japanese book."
+    },
+    {
+      "title": "〜かもしれません",
+      "description": "Something will possibly be the case.  Something 'might' happen.\nComes afer the short form of predicates.",
+      "example": "明日は雨が降るかもしれません -> It may rain tomorrow."
+    },
+    {
+      "title": "ほしい",
+      "description": "'To want' something.  Works like an い-Adjective.",
+      "example": "いい漢字の字書が欲しいです -> I want a good kanji dictionary."
+    },
+    {
+      "title": "Period に Frequency",
+      "description": "X times per Y",
+      "example": "一週間に毎日日本語を勉強します -> I study Japanese every day of the week."
+    },
+    {
+      "title": "なら",
+      "description": "Contradiction: Yes __, but __.\nLimitation: Yes, only if __.",
+      "example": "たこ焼きなら食べたことがあるが，寿司を食べたことがない -> If it's takoyaki yes, otherwise I haven't eaten sushi."
+    },
+    {
+      "title": "〜てみる",
+      "description": "Trying something out, giving it a whirl.",
+      "example": "日本に行く時，色々な食べ物を食べてみたい -> I want to try lots of kinds of food when I go to Japan."
+    },
+    {
+      "title": "〜そうです　(seems)",
+      "description": "Added to the end of い／な adjectives to say something 'seems' that way.\nDrop the final い or drop the な",
+      "example": "１）このリンゴは美味しそうです -> This apple looks delicious!\n２）今日は天気がよさそうです -> The weather looks good today."
+    },
+    {
+      "title": "〜し",
+      "description": "A list of reasons for things.\n(Reason 1) し (Reason 2)し, (Situation)",
+      "example": "今日，山下先生が来なかった．眠いし，子供がいるし，寝坊しちゃたと言っていた -> Mr. Yamashita didn't come today.  Due to his children and being tired, he overslept, he said."
+    },
+    {
+      "title": "Potential Form",
+      "description": "Can do, or able to do.\nる-Verbs => られる\nう-Verbs => える ending\nIf it's a する compound, change particle to が",
+      "example": "私は日本語が話せる -> I can speak Japanese."
+    },
+    {
+      "title": "〜なければいけませみ",
+      "description": "You need to do something, or it's necessary to do something.\nLots of different variants.\nFollows the short negative form of a verb.",
+      "example": "学校に行かなければいけません -> I need to go to school."
+    },
+    {
+      "title": "ので",
+      "description": "Reason-Situation sentences.\nWhen following a な-Adjective or Noun, precede with な",
+      "example": "１）勉強しなかったので，成績が悪いです -> Because I didn't study, my grades are bad.\n２）その人はい意地悪なので，嫌いです -> Because that person is mean, I don't like them."
+    },
+    {
+      "title": "〜ほうがいいです",
+      "description": "Giving Advice.\nPositive uses short PAST.\nNegative uses short PRESENT.",
+      "example": "１）もっと勉強したほうがいいです -> I should study more.\n２）その肉を食べないほうがよかったです -> I shouldn't have eaten that meat."
+    },
+    {
+      "title": "すぎる",
+      "description": "Too much, to excess!\nCan be used with verbs or adjectives.\nVerbs go to て-Form, Adjectives drop ending.",
+      "example": "１）食べすぎてはいけません -> You must not eat too much.\n２）先の車は早すぎた！ -> That car just now was too fast!"
+    },
+    {
+      "title": "〜ことがある",
+      "description": "You have done/experienced something.\nPast informal + ことがある",
+      "example": "そのレストランに行ったことがない -> I've never been to that restaurant."
+    },
+    {
+      "title": "〜たり．．．たりする",
+      "description": "A way to give a list of activities.\nPlain past + り.\n'I will do/did such things as...'",
+      "example": "旅行に，読んだり，勉強したり，ゲッムをしたりしました -> On my vacation, I read, studied, and played games."
+    },
+    {
+      "title": "〜たい",
+      "description": "For when you want to do something.\nConjugates just like an い-Adjective.",
+      "example": "こどもの時宇宙人に会いたかった -> When I was a child, I wanted to meet aliens."
+    },
+    {
+      "title": "なる",
+      "description": "Becoming [Adj] or [Noun]",
+      "example": "１）高くなる -> To become tall.\n２）静かになる -> To become quiet.\n３）弁護士になる"
+    },
+    {
+      "title": "つもり",
+      "description": "Used to say things you're planning to do.\nVerb in question in in the dictionary form.\nCan also negate the verb for 'not planning to do'.",
+      "example": "映画を見るつもりです -> I plan to watch a movie."
+    },
+    {
+      "title": "のほうが／より",
+      "description": "Used to compare items.\nComparing Multiple: A と B と， どちらのほうが．．．\nA のほうが B より (propery) => A is more (property) than B.",
+      "example": "中国のほうが日本より大きいです -> China is larger than Japan."
+    },
+    {
+      "title": "Qualifying Nouns with Verbs and Adjectives",
+      "description": "Like adding a mini clause before your noun to describe it in some way.",
+      "example": "１）昨日買った本を無くしちゃった -> I've lost the book I bought yesterday.\n２）そこの猫が好きな人はみちこさんです -> The person who likes cats over there is Michiko."
+    },
+    {
+      "title": "まだ．．．〜ていません",
+      "description": "Have not... yet",
+      "example": "１）私はまだ昼ご飯を食べていません -> I haven't eaten lunch yet.\n２）ゆきさんはまだ見ていません -> Yuki hasn't seen it yet."
+    },
+    {
+      "title": "To be good or bad at something",
+      "description": "Use the infinitve form + のが〜",
+      "example": "１）私は日本語を喋るのが上手です -> I am good at speaking in Japanese.\n２）私は俳句を書くのが下手です -> I am not good at writing haiku."
+    },
+    {
+      "title": "Verb のがすきです／きらいです",
+      "description": "To like or dislike something.\nUse the infinitive form + のが〜",
+      "example": "１）私は泳ぐのが好きです -> I like to swim.\n２）私は部屋を掃除するのが嫌いです -> I don't like cleaning my room."
+    },
+    {
+      "title": "〜ないでください",
+      "description": "Asking someone not to do something.",
+      "example": "１）ここでピザを食べないでください -> Please don't eat pizza here.\n２）どこにも行かないでください -> Please don't go anywhere."
+    },
+    {
+      "title": "〜ていっていました",
+      "description": "Used for quoting exact phrases or utterances.",
+      "example": "来週の金曜日にテストがあると言っていました -> She said that there is a test next Friday."
+    },
+    {
+      "title": "〜とおもいます",
+      "description": "Used to describe when you think that something is the case.\nTo say you DON'T think something is the case, negate the CLAUSE.",
+      "example": "１）たけしさんはメアリさんが好きだと思います -> I think that Takeshi likes Mary.\n２）その人は高くないと思います -> I think that person is no tall."
+    },
+    {
+      "title": "Stem + に行く",
+      "description": "'Going' to fulfill some action or purpose.\nAlways indicates some destination, even if just implied.",
+      "example": "明日，新しい眼鏡を買いに行きます -> Tomorrow I'm going to buy some new glasses."
+    },
+    {
+      "title": "〜てはいけません",
+      "description": "You must not do...",
+      "example": "ここで写真を撮ってはいけません -> You must not take pictures here."
+    },
+    {
+      "title": "〜てもいいです",
+      "description": "You may do.  It's alright if...\nCan also be used in question form to ask permission.",
+      "example": "１）食べてもいいですか？ -> May I eat this?\n２）今，写真を撮ってもいいです -> You can take the picture now."
+    }
+  ]
+}
