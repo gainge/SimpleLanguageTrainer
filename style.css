@@ -5,3 +5,26 @@ body {
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#reroll-button {
+    padding: 0.5rem 3rem;
+    font-size: 1.3em;
+    border: none;
+    background: #d7ecff;
+    -webkit-box-shadow: 4px 4px 26px -14px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 4px 4px 26px -14px rgba(0, 0, 0, 0.75);
+    box-shadow: 4px 4px 26px -14px rgba(0, 0, 0, 0.75);
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#reroll-button:hover {
+    transition: box-shadow ease 0.2s;
+    -webkit-box-shadow: 4px 4px 26px -14px rgba(0, 0, 0, 0.55);
+    -moz-box-shadow: 4px 4px 26px -14px rgba(0, 0, 0, 0.55);
+    box-shadow: 4px 4px 26px -14px rgba(0, 0, 0, 0.55);
+}
+
+#reroll-button:active {
+    background-color: #bee0ff;
+}
