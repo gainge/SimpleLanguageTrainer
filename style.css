@@ -33,6 +33,10 @@ hr {
     background-color: #bee0ff;
 }
 
+#student-box {
+    margin-top: 1rem;
+}
+
 #content-wrapper {
     display: flex;
     flex-direction: column;
@@ -75,6 +79,7 @@ hr {
     column-gap: 0.5rem;
     row-gap: 0.5rem;
     flex-direction: column;
+    align-items: center;
 }
 
 
@@ -83,6 +88,8 @@ hr {
     background-color: #704C5E;
     text-align: center;
     cursor: pointer;
+    min-width: 200px;
+    max-width: max-content;
 }
 
 .tool-details {
