@@ -845,7 +845,8 @@
     {
       "title": "〜ても",
       "description": "A ても B = B, even if A.\nIf A clause ends with な-Adj or Noun, use 〜でも\nWorks with negative 〜て form",
-      "example": "先生に聞かなくても，分かります -> Even if I don't listen to the teacher, I'll understand."
+      "example": "先生に聞かなくても，分かります -> Even if I don't listen to the teacher, I'll understand.",
+      "level": 0
     },
     {
       "title": "Causative-Passive Sentences",
@@ -885,7 +886,8 @@
     {
       "title": "〜てほしい",
       "description": "私は (person) に Verb + てほしい\nCan negate with 〜ないでほしい or ほしくない\nIf speaking of another person's wants, use ほしがっている",
-      "example": "私はお父さんに昔話をして欲しくない -> I don't want my dad to talk about the good old days."
+      "example": "私はお父さんに昔話をして欲しくない -> I don't want my dad to talk about the good old days.",
+      "level": 0
     },
     {
       "title": "Adjective + する",
@@ -940,7 +942,8 @@
     {
       "title": "〜てよかったです",
       "description": "Used to say you're 'glad' for something.\nWorks with 〜て form and negative 〜て form.",
-      "example": "日本ごを勉強してよかったです -> I'm glad that I've studied Japanese."
+      "example": "日本ごを勉強してよかったです -> I'm glad that I've studied Japanese.",
+      "level": 0
     },
     {
       "title": "〜てくれてありがとう",
@@ -1030,7 +1033,8 @@
     {
       "title": "〜てくれない／ください／いただけませんか",
       "description": "Making Requests.\nCarries varying levels of politeness.",
-      "example": "この本を訳してくれませんか？ -> Could you translate this book for me?"
+      "example": "この本を訳してくれませんか？ -> Could you translate this book for me?",
+      "level": 0
     },
     {
       "title": "〜てあげる／くれる／もらう",
@@ -1095,7 +1099,8 @@
     {
       "title": "〜てみる",
       "description": "Trying something out, giving it a whirl.",
-      "example": "日本に行く時，色々な食べ物を食べてみたい -> I want to try lots of kinds of food when I go to Japan."
+      "example": "日本に行く時，色々な食べ物を食べてみたい -> I want to try lots of kinds of food when I go to Japan.",
+      "level": 0
     },
     {
       "title": "〜そうです　(seems)",
@@ -1180,7 +1185,8 @@
     {
       "title": "Verb のがすきです／きらいです",
       "description": "To like or dislike something.\nUse the infinitive form + のが〜",
-      "example": "１）私は泳ぐのが好きです -> I like to swim.\n２）私は部屋を掃除するのが嫌いです -> I don't like cleaning my room."
+      "example": "１）私は泳ぐのが好きです -> I like to swim.\n２）私は部屋を掃除するのが嫌いです -> I don't like cleaning my room.",
+      "level": 0
     },
     {
       "title": "〜ないでください",
@@ -1205,12 +1211,14 @@
     {
       "title": "〜てはいけません",
       "description": "You must not do...",
-      "example": "ここで写真を撮ってはいけません -> You must not take pictures here."
+      "example": "ここで写真を撮ってはいけません -> You must not take pictures here.",
+      "level": 0
     },
     {
       "title": "〜てもいいです",
       "description": "You may do.  It's alright if...\nCan also be used in question form to ask permission.",
-      "example": "１）食べてもいいですか？ -> May I eat this?\n２）今，写真を撮ってもいいです -> You can take the picture now."
+      "example": "１）食べてもいいですか？ -> May I eat this?\n２）今，写真を撮ってもいいです -> You can take the picture now.",
+      "level": 0
     }
   ]
 }
