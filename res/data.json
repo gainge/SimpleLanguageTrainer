@@ -1411,6 +1411,102 @@
       "description": "You may do.  It's alright if...\nCan also be used in question form to ask permission.",
       "example": "１）食べてもいいですか？ -> May I eat this?\n２）今，写真を撮ってもいいです -> You can take the picture now.",
       "level": 0
+    },
+    {
+      "title": "Question Sentence",
+      "description": "Use か to mark a statement as a question.",
+      "example": "あのレストランは高いですか？ -> Is that restaurant expensive?",
+      "level": -1
+    },
+    {
+      "title": "Noun の Noun",
+      "description": "Connects two nouns. This can be in the sense of a specification, restriction, or most commonly, possession",
+      "example": "１）サクラの犬 -> Sakura's Dog\n２）高校の先生 -> High school teacher",
+      "level": -1
+    },
+    {
+      "title": "This/That/Which",
+      "description": "Refer to things either generally or specifically",
+      "example": "That - これ／それ／あれ／どれ\nThis (noun) - この／その／あの／どの\n１）あれはペンです -> That's a pen\n２）どのバスですか？ -> Which bus?",
+      "level": -1
+    },
+    {
+      "title": "Noun も",
+      "description": "Also Noun; Noun as well. Used to say that something applies to another subject as well",
+      "example": "私はアメリカ人です。ともだちもアメリカ人です。 -> I am American. My friend is also American",
+      "level": -1
+    },
+    {
+      "title": "ません／ませんでした",
+      "description": "Negative verb conjugation, stem + ません／ませんでした\nです -> じゃないです／じゃなかったです",
+      "example": "学校に行きません -> I won't go do school",
+      "level": -1
+    },
+    {
+      "title": "ました／ませんでした",
+      "description": "Past tense verb conjugation, stem + ました／ませんでした\nです -> でした／じゃなかったです",
+      "example": "私はハンバーガーを食べました -> I ate breakfast",
+      "level": -1
+    },
+    {
+      "title": "Xがあります／います",
+      "description": "There is/are X. Describing existence.\nある: Non-living things\nいる: Living things",
+      "example": "１）車があります -> There is a car\n２）人がたくさんいます -> There are a lot of people",
+      "level": -1
+    },
+    {
+      "title": "Noun と Noun",
+      "description": "Connects two nouns\nCan take the meaning of 'and', or 'together with'",
+      "example": "１）私は大阪と東京に行きました -> I went to Osaka and Tokyo\n２）メアリーさんはたけしさんと帰ります -> Mary will go home with Takeshi",
+      "level": -1
+    },
+    {
+      "title": "Adjectives (present tense)",
+      "description": "い-Adj(さむい)  寒いです  寒くないです\nな-Adj(げんきな)  元気です  元気じゃないです",
+      "example": "学校は忙しいです -> School is busy",
+      "level": -1
+    },
+    {
+      "title": "Adjectives (past tense)",
+      "description": "い-Adj(さむい)  寒かったです  寒くなかったです\nな-Adj(げんきな)  元気でした  元気じゃなかったです",
+      "example": "昨日のクラスは面白かったです -> Yesterday's class was interesting",
+      "level": -1
+    },
+    {
+      "title": "Adjective Noun Modification",
+      "description": "Prefix a noun with an adjective, don't forget the な！",
+      "example": "新しい本 -> A new book\nきれいな映画 -> A beautiful film",
+      "level": -1
+    },
+    {
+      "title": "〜ましょう／〜ましょうか",
+      "description": "Lets... / Shall we...?",
+      "example": "１）歌いましょう！ -> Let's sing!\n２）あの山を登りましょうか？ -> Shall we climb that mountain?",
+      "level": -1
+    },
+    {
+      "title": "〜てください",
+      "description": "Please 〜",
+      "example": "次のページを読んでください -> Please read the next page",
+      "level": 0
+    },
+    {
+      "title": "〜てもいいです",
+      "description": "You may do...\nTurn into a question to ask for permission",
+      "example": "ともだちの家に行ってもいいですか？ -> Can I go to my friend's house?",
+      "level": -1
+    },
+    {
+      "title": "〜から",
+      "description": "Because\n(Situation)。(Explanation)から",
+      "example": "学校に行きませんでした。元気じゃなかったですから -> I didn't go to school. (Because) I wasn't feeling great",
+      "level": -1
+    },
+    {
+      "title": "〜ている",
+      "description": "Action in progress / Result of a change",
+      "example": "１）私は泳いでいます -> I am swimming\n２）私の姉が結婚しています -> My older sister is married",
+      "level": -1
     }
   ]
 }
