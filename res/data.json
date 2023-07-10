@@ -1425,7 +1425,7 @@
       "level": -1
     },
     {
-      "title": "This/That/Which",
+      "title": "This / That / Which",
       "description": "Refer to things either generally or specifically",
       "example": "That - これ／それ／あれ／どれ\nThis (noun) - この／その／あの／どの\n１）あれはペンです -> That's a pen\n２）どのバスですか？ -> Which bus?",
       "level": -1
@@ -1438,13 +1438,13 @@
     },
     {
       "title": "ません／ませんでした",
-      "description": "Negative verb conjugation, stem + ません／ませんでした\nです -> じゃないです／じゃなかったです",
+      "description": "Negative verb conjugation\nStem + ません／ませんでした\nです -> じゃないです／じゃなかったです",
       "example": "学校に行きません -> I won't go do school",
       "level": -1
     },
     {
       "title": "ました／ませんでした",
-      "description": "Past tense verb conjugation, stem + ました／ませんでした\nです -> でした／じゃなかったです",
+      "description": "Past tense verb conjugation\nStem + ました／ませんでした\nです -> でした／じゃなかったです",
       "example": "私はハンバーガーを食べました -> I ate breakfast",
       "level": -1
     },
@@ -1462,13 +1462,13 @@
     },
     {
       "title": "Adjectives (present tense)",
-      "description": "い-Adj(さむい)  寒いです  寒くないです\nな-Adj(げんきな)  元気です  元気じゃないです",
+      "description": "い-Adj (さむい) -- 寒いです -- 寒くないです\nな-Adj (げんきな) -- 元気です -- 元気じゃないです",
       "example": "学校は忙しいです -> School is busy",
       "level": -1
     },
     {
       "title": "Adjectives (past tense)",
-      "description": "い-Adj(さむい)  寒かったです  寒くなかったです\nな-Adj(げんきな)  元気でした  元気じゃなかったです",
+      "description": "い-Adj (さむい) -- 寒かったです -- 寒くなかったです\nな-Adj (げんきな) -- 元気でした -- 元気じゃなかったです",
       "example": "昨日のクラスは面白かったです -> Yesterday's class was interesting",
       "level": -1
     },
