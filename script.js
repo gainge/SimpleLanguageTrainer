@@ -4,10 +4,29 @@ const HIDDEN_CLASS_NAME = 'hidden';
 
 let tools = undefined;
 let topics = undefined;
+let studentTools = undefined;
+let teacherTools = undefined;
 
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
+}
+
+function getTools() {
+  if (!tools) {
+    alert('Tools not loaded!');
+    return;
+  }
+  // Initialize tools if not loaded
+  if (!studentTools) {
+    studentTools = tools.filter((tool) => tool.level ?? 1 <= 0);
+  }
+  if (!teacherTools) {
+    teacherTools = tools.filter((tool) => tool.level ?? 0 >= 0);
+  }
+
+  const studentCheckbox = document.getElementById('student-box');
+  return studentCheckbox.checked ? studentTools : teacherTools;
 }
 
 function initializeState(toolsData, topicsData) {
@@ -28,15 +47,19 @@ function getRandomTopic() {
 }
 
 function getRandomTools(numTools) {
-  const baseIndex = getRandomInt(tools.length)
+  const currentTools = getTools();
+  const baseIndex = getRandomInt(currentTools.length)
   const randomTools = [];
+  const indices = [];
 
   let runningIndex = baseIndex;
 
   for (let i = 0; i < numTools; i++) {
-    randomTools.push(tools[runningIndex])
-    runningIndex++;
-    runningIndex = runningIndex % tools.length;
+    indices.push(runningIndex);
+    randomTools.push(currentTools[runningIndex])
+    do {
+      runningIndex = getRandomInt(currentTools.length);
+    } while (indices.includes(runningIndex))
   }
 
   return randomTools;
@@ -51,7 +74,6 @@ function clearTools() {
 }
 
 function addTool(tool) {
-  console.log(tool);
   const parent = document.getElementById('tools-container');
 
   // Add the main tool title
@@ -92,7 +114,6 @@ function populateContent() {
   clearTools();
 
   for (let tool of randomTools) {
-    console.log(tool);
     addTool(tool);
   }
 }
@@ -101,6 +122,7 @@ function populateContent() {
 function initializeDOMContent() {
   // Let' hook up some fancy listeners (it's just one)
   document.getElementById('reroll-button').addEventListener('click', populateContent);
+  document.getElementById('student-box').addEventListener('change', populateContent);
 }
 
 
